@@ -21,7 +21,7 @@ spec:
       image: kundanjenkinsimg:latest
       imagePullPolicy: Always
       ports:
-      - containerPort: 8080
+      - containerPort: 8888
 ---
 apiVersion: v1
 kind: Service
@@ -33,6 +33,6 @@ spec:
    app: mavenwebapp
   ports:
    - port: 80
-     targetPort: 8080
+     targetPort: 8888
      nodePort: 30080
 ...
