@@ -10,7 +10,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to AIG DevOps Demo</title>
+    <title>Welcome to CI/CD Pipeline</title>
     <style>
         body {
             background-color: #f8f9fa;
@@ -57,7 +57,7 @@
 <body>
 
 <header>
-    <h1>Welcome to AIG DevOps Showcase</h1>
+    <h1>Welcome to CI/CD Pipeline Showcase</h1>
     <p>Empowering Innovation Through Automation</p>
 </header>
 
@@ -68,7 +68,7 @@
 </main>
 
 <footer>
-    <p>&copy; 2025 AIG, Inc. All rights reserved.</p>
+    <p>&copy; 2025 KK, Inc. All rights reserved.</p>
 </footer>
 
 </body>
